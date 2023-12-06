@@ -5,4 +5,4 @@ The developer of the original project was forced to put up this plea on his [web
 !(site.png)
 
 I will attempt to use [this feed](https://www.broadcastify.com/webPlayer/28416) to get incident type and location then format it in a way that works with the site, so it is able to use the information.
-!(feed.png)
+![blank](feed.png)
